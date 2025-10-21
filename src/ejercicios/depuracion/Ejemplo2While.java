@@ -8,7 +8,7 @@ public class Ejemplo2While {
     public static int pedirNumero() {
         Scanner sc = new Scanner(System.in);
         System.out.println("Introduce un numero: ");
-        return sc.nextInt()
+        return sc.nextInt();
        
     }
     public static void main(String[] args) {
